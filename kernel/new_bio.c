@@ -21,7 +21,6 @@
 #include "defs.h"
 #include "fs.h"
 #include "buf.h"
-#include <x86_64-linux-gnu/sys/types.h>
 
 #define prime 13
 
